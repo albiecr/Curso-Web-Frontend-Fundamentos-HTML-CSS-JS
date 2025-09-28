@@ -1,3 +1,29 @@
 h1{
     color: red;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+h2{
+    color: purple;
+    font-family: Arial;
+    font-size: 30px;
+    font-style: italic;
+}
+
+h3{
+    color: plum;
+    font-family: Arial;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+p{
+    color: #0000ff;
+    text-indent: 28px;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: justify;
+    font-variant: small-caps;
 }
