@@ -17,13 +17,17 @@ h3{
     font-size: 20px;
     text-transform: capitalize;
     text-align: center;
+    text-decoration: underline;
 }
 
 p{
-    color: #0000ff;
+    /* color: #0000ff; */
     text-indent: 28px;
     font-family: Arial;
     font-size: 15px;
     text-align: justify;
     font-variant: small-caps;
+}
+a{
+    text-decoration: none;
 }
