@@ -41,3 +41,15 @@ p{
 a{
     text-decoration: none;
 }
+
+.destaque{
+    color: rgb(255, 131, 255);
+    font-weight: bold;
+}
+
+#destaque{
+    color: orange;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px gray;
+}
